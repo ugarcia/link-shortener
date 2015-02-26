@@ -118,7 +118,7 @@
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                         </manifest>
                     </archive>
-                    <outputDirectory>./</outputDirectory>
+                    <outputDirectory>./builds/</outputDirectory>
                 </configuration>
             </plugin>
 
