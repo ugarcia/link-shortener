@@ -1,0 +1,49 @@
+body, h1, div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 34px;
+    text-decoration: underline;
+    color: #06005E;
+    text-transform: uppercase;
+}
+
+.link-input {
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 15px;
+    width: 66%;
+}
+
+.shorten-button {
+    padding: 6px;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.shorten-button:hover {
+    opacity: 0.8;
+}
+
+.errors {
+    display: none;
+    margin: 20px auto;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.link-container {
+    display: none;
+    margin-top: 20px;
+    box-shadow: 1px 1px 2px 1px #C8C3C3;
+    width: 248px;
+    margin: 20px auto;
+    background-color: #E5FF88;
+    border-radius: 82%;
+    padding: 14px;
+    font-size: 18px;
+    font-weight: bolder;
+}
